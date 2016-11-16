@@ -4,18 +4,18 @@
 /* Start the CSS*/
 
 @font-face {
-    font-family: 'aleoregular';
-    src: url('../aleo-regular-webfont.woff2') format('woff2'),
-         url('../aleo-regular-webfont.woff') format('woff');
+    font-family: 'aleoregular',seriff;
+    src: url('../fonts/aleo-regular-webfont.woff2') format('woff2'),
+         url('../fonts/aleo-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 
 @font-face {
-    font-family: 'fira_sansregular';
-    src: url('../firasans-regular-webfont.woff2') format('woff2'),
-         url('../firasans-regular-webfont.woff') format('woff');
+    font-family: 'fira_sansregular',sans-seriff;
+    src: url('../fonts/firasans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/firasans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -41,58 +41,65 @@ body {
 }
 
 h1 {
-	font-family: 'aleoregular';
-    src: url('../aleo-regular-webfont.woff2') format('woff2'),
-         url('../aleo-regular-webfont.woff') format('woff');
+	 font-family: 'fira_sansregular',sans-seriff;
+    src: url('../fonts/firasans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/firasans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+
 }
 
 h2 {
-	font-family: 'aleoregular';
-    src: url('../aleo-regular-webfont.woff2') format('woff2'),
-         url('../aleo-regular-webfont.woff') format('woff');
+	 font-family: 'fira_sansregular',sans-seriff;
+    src: url('../fonts/firasans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/firasans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+
 }
 
 h3 {
-	font-family: 'aleoregular';
-    src: url('../aleo-regular-webfont.woff2') format('woff2'),
-         url('../aleo-regular-webfont.woff') format('woff');
+	 font-family: 'fira_sansregular',sans-seriff;
+    src: url('../fonts/firasans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/firasans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+
 }
 
 h4 {
-	font-family: 'aleoregular';
-    src: url('../aleo-regular-webfont.woff2') format('woff2'),
-         url('../aleo-regular-webfont.woff') format('woff');
+	 font-family: 'fira_sansregular',sans-seriff;
+    src: url('../fonts/firasans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/firasans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+
 }
 
 h5 {
-	font-family: 'aleoregular';
-    src: url('../aleo-regular-webfont.woff2') format('woff2'),
-         url('../aleo-regular-webfont.woff') format('woff');
+	 font-family: 'fira_sansregular',sans-seriff;
+    src: url('../fonts/firasans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/firasans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+
 }
 
 h6 {
-	font-family: 'aleoregular';
-    src: url('../aleo-regular-webfont.woff2') format('woff2'),
-         url('../aleo-regular-webfont.woff') format('woff');
+	 font-family: 'fira_sansregular',sans-seriff;
+    src: url('../fonts/firasans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/firasans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+
 }
 
 p {
-	font-family: 'fira_sansregular';
-    src: url('../firasans-regular-webfont.woff2') format('woff2'),
-         url('../firasans-regular-webfont.woff') format('woff');
+	font-family: 'aleoregular',seriff;
+    src: url('../fonts/aleo-regular-webfont.woff2') format('woff2'),
+         url('../fonts/aleo-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+
 
 }
