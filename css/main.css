@@ -5,8 +5,8 @@
 
 @font-face {
     font-family: 'aleoregular';
-    src: url('aleo-regular-webfont.woff2') format('woff2'),
-         url('aleo-regular-webfont.woff') format('woff');
+    src: url(../'aleo-regular-webfont.woff2') format('woff2'),
+         url(../'aleo-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -14,8 +14,8 @@
 
 @font-face {
     font-family: 'fira_sansregular';
-    src: url('firasans-regular-webfont.woff2') format('woff2'),
-         url('firasans-regular-webfont.woff') format('woff');
+    src: url(../'firasans-regular-webfont.woff2') format('woff2'),
+         url(../'firasans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
