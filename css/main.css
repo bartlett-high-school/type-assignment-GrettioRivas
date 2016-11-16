@@ -41,29 +41,57 @@ body {
 }
 
 h1 {
-
+	font-family: 'fira_sansregular';
+    src: url('firasans-regular-webfont.woff2') format('woff2'),
+         url('firasans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 h2 {
-
+	font-family: 'fira_sansregular';
+    src: url('firasans-regular-webfont.woff2') format('woff2'),
+         url('firasans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 h3 {
-
+	font-family: 'fira_sansregular';
+    src: url('firasans-regular-webfont.woff2') format('woff2'),
+         url('firasans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 h4 {
-
+	font-family: 'fira_sansregular';
+    src: url('firasans-regular-webfont.woff2') format('woff2'),
+         url('firasans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 h5 {
-
+	font-family: 'fira_sansregular';
+    src: url('firasans-regular-webfont.woff2') format('woff2'),
+         url('firasans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 h6 {
-
+	font-family: 'fira_sansregular';
+    src: url('firasans-regular-webfont.woff2') format('woff2'),
+         url('firasans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 p {
-
+	font-family: 'aleoregular';
+    src: url('aleo-regular-webfont.woff2') format('woff2'),
+         url('aleo-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
